@@ -1,1 +1,1 @@
-<?php echo 'Travail sur la branche feature'; ?>
+<?php echo 'Travail sur la branche feature, modification de la version'; ?>
