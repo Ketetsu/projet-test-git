@@ -1,1 +1,1 @@
-<?php echo 'Hello Git, version 2'; ?>
+<?php echo 'Hello Git, version modifiée'; ?>
