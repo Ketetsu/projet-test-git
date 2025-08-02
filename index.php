@@ -1,1 +1,1 @@
-<?php echo 'Hello Git, version modifiée'; ?>
+<?php echo 'Travail sur la branche feature'; ?>
